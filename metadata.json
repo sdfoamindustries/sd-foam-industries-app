@@ -1,0 +1,6 @@
+{
+  "name": "Oleaf Mattress",
+  "description": "S D Foam Industries Oleaf Premium Mattress, PU Foam, Bonded Foam and Pillows production division application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
