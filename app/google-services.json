@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143602474330",
+    "project_id": "fir-d-foam-industries",
+    "storage_bucket": "fir-d-foam-industries.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143602474330:android:598a055c2c9d25957d6763",
+        "android_client_info": {
+          "package_name": "com.aistudio.oleafmattress.wpqyrl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8JxrB_fbtMT8_ubT8kYOx7DLW-8EfkTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
